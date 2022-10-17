@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dcocuzza Daniele Cocuzza
-- 👀 I’m interested in music, reading, programming
+- 👀 I’m interested in music, train, programming
 - 🌱 I’m currently studying Computer Science at University of Catania
 - 📫 How to reach me dcocuzza01@gmail.com
 <!---
