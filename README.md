@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dcocuzza Daniele Cocuzza
 - 👀 I’m interested in music, programming, football
-- 🌱 I’m currently studying Computer Science at University of Catania
+- 🌱 I’m a Computer Sciencist, I graduated with top marks (110 cum laude) from the University of Catania.
 - 💻 I'm working as Software Developer at AITHO
 - 📫 How to reach me dcocuzza01@gmail.com
 <!---
